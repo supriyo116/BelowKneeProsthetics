@@ -1,0 +1,15 @@
+Acknowledgement Note
+I would like to extend my heartfelt gratitude to my project team members for their dedication and exceptional contributions, which were instrumental in the successful completion of our project on developing a below-the-knee prosthetic using EMG sensors.
+
+Special thanks to:
+
+Satvik Jain (2022UEE0148)
+Ananya Garg (2022UMT0162)
+Sanjhali Srivastava (2022UMT0180)
+
+My specific contributions to the project included:
+
+Writing code for data collection, filtration, and optimization.
+Using machine learning to predict angles based on EMG sensor data.
+Implementing the ML-predicted angle on motor movements to achieve the desired angle for the prosthetic limb.
+Thank you all for your unwavering support and collaboration. Together, we have made significant strides in advancing prosthetic technology.
